@@ -7,6 +7,7 @@ void fun(int arr[],int n)
 		arr[i]=arr[i]+2;
 	}
 }
+// printf("hello world");
 int main()
 {
 	int n,i;
